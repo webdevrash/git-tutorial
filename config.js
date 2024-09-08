@@ -1,2 +1,2 @@
-console.log('git tutorial');
-console.log('bbb vvkjhk config is 1 ');
+console.log('config.js');
+console.log('version12');
