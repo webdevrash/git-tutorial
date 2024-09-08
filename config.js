@@ -1,2 +1,2 @@
-console.log('git tutorials');
-console.log('config is');
+console.log('git tutorial');
+console.log('bbb vvkjhk config is 1 ');
